@@ -1,0 +1,19 @@
+{
+  "name": "@danielkalen/jquery-cache",
+  "version": "1.0.0",
+  "description": "jQuery selector cache",
+  "main": "jqueyr-cache.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielkalen/jquery-cache.git"
+  },
+  "author": "danielkalen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danielkalen/jquery-cache/issues"
+  },
+  "homepage": "https://github.com/danielkalen/jquery-cache#readme"
+}
