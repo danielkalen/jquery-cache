@@ -2,7 +2,7 @@
   "name": "@danielkalen/jquery-cache",
   "version": "1.0.0",
   "description": "jQuery selector cache",
-  "main": "jqueyr-cache.js",
+  "main": "jquery-cache.esm.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
