@@ -1,6 +1,6 @@
 {
   "name": "@danielkalen/jquery-cache",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "jQuery selector cache",
   "main": "jquery-cache.esm.js",
   "scripts": {
